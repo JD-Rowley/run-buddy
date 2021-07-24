@@ -13,4 +13,4 @@ http://lernantino.github.io/run-buddy/
 ## Contribution
 Made with ❤️ by Jesse Rowley
 
-# Run Buddy, Inc
+### &copy; Run Buddy, Inc
